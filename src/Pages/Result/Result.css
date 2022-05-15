@@ -1,0 +1,19 @@
+.result {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50vh;
+  text-align: center;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 10vh;
+  text-align: center;
+  font-size: 45px;
+  font-family: "Florence", serif;
+  color:rgb(0, 35, 209)
+
+}
