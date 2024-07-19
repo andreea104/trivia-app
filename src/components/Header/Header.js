@@ -1,7 +1,5 @@
 import { Link } from "react-router-dom";
 import "./Header.css";
-// import female from "../../../public/female.png"
-// import male from '../../../public/male.png'
 
 const Header = ({avatar}) => {
   console.log(avatar)
